@@ -1,0 +1,5 @@
+Full Screen Image
+  Image("...")
+    .resizable()
+    .aspectRatio(contentMode: .fill)
+    .edgesIgnoringSafeArea(.all)
